@@ -1,3 +1,5 @@
+![Texto alternativo](cover.jpg)
+
 **Título del Proyecto:**
 Predicción de Supervivientes del Titanic mediante Machine Learning
 
